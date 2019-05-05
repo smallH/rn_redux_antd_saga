@@ -1,0 +1,1 @@
+export const CHECK_TOKEN = 'auth/check_token'; 
